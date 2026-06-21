@@ -1,4 +1,4 @@
-# Agricultural Yield — EDA & Machine Learning
+# Agricultural Yield : EDA & Machine Learning
 
 Week 3 Assignment 1: Exploratory Data Analysis and a baseline Linear Regression model on an agricultural yield dataset.
 
